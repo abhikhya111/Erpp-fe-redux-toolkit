@@ -1,0 +1,111 @@
+#loginform {
+    max-width: 500px;
+    min-width: 320px;
+    max-height: 700px;
+    width: 30%;
+    height: 80%;
+    margin: 10px 24px;
+    background-color: #ffffff;
+    border-radius: 25px;
+  }
+  
+  #headerTitle {
+    text-align: center;
+    font-family: "open sans", sans-serif;
+    padding: 1rem 0;
+    margin: 0;
+    font-size: 2rem;
+    color: #083864;
+  }
+  
+  footer {
+    bottom: 0;
+    position: fixed;
+  }
+  
+  .footer {
+    margin: auto;
+    width: 400px;
+    text-align: center;
+    padding: 10px;
+    color: #0373ff;
+  }
+  
+  .row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2rem;
+    max-width: 100%;
+  }
+  
+  .row input {
+    width: 80%;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-size: 1.3rem;
+    padding-left: 1.5rem;
+    height: 48px;
+    border: 1px solid #083864;
+    transition: box-shadow 0.2s ease-in;
+  }
+  
+  .row input:focus {
+    outline: none;
+  }
+  
+  /* .row input::-webkit-input-placeholder {
+      opacity: 1;
+      transition: opacity 0.25s ease-out;
+  }
+  
+  .row input:hover::-webkit-input-placeholder, .row input:focus::-webkit-input-placeholder {
+      opacity: 0;
+  } */
+  
+  .row label {
+    align-self: start;
+    padding-left: 2.5rem;
+    padding-bottom: 0.5rem;
+    color: #083864;
+  }
+  
+  .row button {
+    width: 80%;
+    height: 60px;
+    font-size: 1.3rem;
+    color: white;
+    font-weight: 700;
+    background: #1f299c;
+    border: 0px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: opacity 0.25s ease-out;
+  }
+  
+  .row button:hover {
+    opacity: 0.8;
+  }
+  
+  #button {
+    padding-bottom: 1.5rem;
+  }
+  
+  .dashboard-image {
+    background: url("../../assets/images/login graphics.png");
+    background-size: cover;
+    background-color: #1f299c;
+    height: 100vh;
+    width: 70%;
+  }
+  
+  @media screen and (max-width: 768px) {
+    #loginform {
+      min-width: 420px;
+      width: 35%;
+    }
+    .row input {
+      font-size: 1.3rem;
+      padding-left: 0.5rem;
+    }
+  }

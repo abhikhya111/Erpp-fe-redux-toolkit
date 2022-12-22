@@ -1,0 +1,1104 @@
+[
+    {
+    "empName": "Nihar Singla",
+    "empId": "001",
+    "empRole": "Software Development Enigneer",
+    "empTeam": "IT Infra and Solutions",
+    "schedule": "Seaforth Supply Chain Solution",
+    "contactInfo": [9827812370, 9388887636],
+    "email": "nihar@gmail.com",
+    "address": "House number 007, Sector 007, Canada - 837278, Canada, Canada",
+    "status": "Under Process",
+    "assets": [
+      {
+        "type": "Mobile",
+        "conditon": "01",
+        "name": "Iphone 11(64GB) - Black, white, blue, silver",
+        "brand": "Apple",
+        "model": "ABCD12345678",
+        "serialNo": "SN12345674829",
+        "status": "Not Working",
+        "condition": "Working Condition",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/61l9ppRIiqL._SX679_.jpg",
+            "imgName": "Iphone 1.JPG"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71uNkgYrWcL._SX679_.jpg",
+            "imgName": "Iphone 2.JPG"
+          }
+        ],
+        "comments": [
+          {
+            "name": "Manjot Singh",
+            "empId": "6473829123",
+            "timeStamp": "03-12-2021 10:00 AM",
+            "comment":
+              "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          },
+          {
+            "name": "Manjot Singh",
+            "empId": "6473829123",
+            "timeStamp": "03-12-2021 10:00 AM",
+            "comment":
+              "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          },
+          {
+            "name": "Manjot Singh",
+            "empId": "6473829123",
+            "timeStamp": "03-12-2021 10:00 AM",
+            "comment":
+              "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          },
+          {
+            "name": "Manjot Singh",
+            "empId": "6473829123",
+            "timeStamp": "03-12-2021 10:00 AM",
+            "comment":
+              "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          }
+        ],
+        "activities": [
+          {
+            "date": "05-12-2021",
+            "acts": [
+              {
+                "time": "10:30:20 AM",
+                "empName": "Bhupinder Singh",
+                "empId": "ABCD26273712",
+                "status": "Request for replacement"
+              },
+              {
+                "time": "02:45:40 PM",
+                "empName": "Nihar Singla",
+                "empId": "ABCD273712",
+                "status": "Delete photo (Apple1.png)"
+              }
+            ]
+          },
+          {
+            "date": "06-12-2021",
+            "acts": [
+              {
+                "time": "11:20:00 AM",
+                "empName": "Bhupinder Singh",
+                "empId": "ABCD26273712",
+                "status": "Asset photo attached"
+              },
+              {
+                "time": "03:15:10 PM",
+                "empName": "Nihar Singla",
+                "empId": "ABCD273712",
+                "status": "Assign asset to Bhupinder Singh"
+              }
+            ]
+          }
+        ],
+        "replacements": [
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          }
+        ],
+        "remarks": ["Hi", "Bye"]
+      },
+      {
+        "type": "Laptop",
+        "conditon": "02",
+        "name": "Macbook Pro",
+        "brand": "Apple",
+        "model": "ABCD12345678",
+        "serialNo": "SN12345674829",
+        "status": "Active",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/61l9ppRIiqL._SX679_.jpg",
+            "imgName": "Iphone 1.JPG"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71uNkgYrWcL._SX679_.jpg",
+            "imgName": "Iphone 2.JPG"
+          }
+        ],
+        "comments": [
+          {
+            "name": "Manjot Singh",
+            "empId": "6473829123",
+            "timeStamp": "03-12-2021 10:00 AM",
+            "comment":
+              "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          }
+        ],
+        "activities": [
+          {
+            "date": "05-12-2021",
+            "acts": [
+              {
+                "time": "10:30:20 AM",
+                "empName": "Bhupinder Singh",
+                "empId": "ABCD26273712",
+                "status": "Request for replacement"
+              },
+              {
+                "time": "02:45:40 PM",
+                "empName": "Nihar Singla",
+                "empId": "ABCD273712",
+                "status": "Delete photo (Apple1.png)"
+              }
+            ]
+          },
+          {
+            "date": "06-12-2021",
+            "acts": [
+              {
+                "time": "11:20:00 AM",
+                "empName": "Bhupinder Singh",
+                "empId": "ABCD26273712",
+                "status": "Asset photo attached"
+              },
+              {
+                "time": "03:15:10 PM",
+                "empName": "Nihar Singla",
+                "empId": "ABCD273712",
+                "status": "Assign asset to Bhupinder Singh"
+              }
+            ]
+          }
+        ],
+        "replacements": [
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          }
+        ],
+        "remarks": ["Hi", "Bye"]
+      },
+      {
+        "type": "Desktop",
+        "conditon": "03",
+        "name": "Windows",
+        "brand": "HP",
+        "model": "ABCD12345678",
+        "serialNo": "SN12345674829",
+        "status": "Active",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/61l9ppRIiqL._SX679_.jpg",
+            "imgName": "Iphone 1.JPG"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71uNkgYrWcL._SX679_.jpg",
+            "imgName": "Iphone 2.JPG"
+          }
+        ],
+        "comments": [
+          {
+            "name": "Manjot Singh",
+            "empId": "6473829123",
+            "timeStamp": "03-12-2021 10:00 AM",
+            "comment":
+              "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          }
+        ],
+        "activities": [
+          {
+            "date": "05-12-2021",
+            "acts": [
+              {
+                "time": "10:30:20 AM",
+                "empName": "Bhupinder Singh",
+                "empId": "ABCD26273712",
+                "status": "Request for replacement"
+              },
+              {
+                "time": "02:45:40 PM",
+                "empName": "Nihar Singla",
+                "empId": "ABCD273712",
+                "status": "Delete photo (Apple1.png)"
+              }
+            ]
+          },
+          {
+            "date": "06-12-2021",
+            "acts": [
+              {
+                "time": "11:20:00 AM",
+                "empName": "Bhupinder Singh",
+                "empId": "ABCD26273712",
+                "status": "Asset photo attached"
+              },
+              {
+                "time": "03:15:10 PM",
+                "empName": "Nihar Singla",
+                "empId": "ABCD273712",
+                "status": "Assign asset to Bhupinder Singh"
+              }
+            ]
+          }
+        ],
+        "replacements": [
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          }
+        ],
+        "remarks": ["Hi", "Bye"]
+      }
+    ]
+  },{
+    "empName": "Kavita Singla",
+    "empId": "007",
+    "empRole": "Software Development Enigneer",
+    "empTeam": "IT Infra and Solutions",
+    "schedule": "Seaforth Supply Chain Solution",
+    "contactInfo": [9827812370, 9388887636],
+    "email": "nihar@gmail.com",
+    "address": "House number 007, Sector 007, Canada - 837278, Canada, Canada",
+    "status": "Under Process",
+    "assets": [
+      {
+        "type": "Mobile",
+        "conditon": "01",
+        "name": "Iphone 11(64GB) - Black, white, blue, silver",
+        "brand": "Apple",
+        "model": "ABCD12345678",
+        "serialNo": "SN12345674829",
+        "status": "Not Working",
+        "condition": "Working Condition",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/61l9ppRIiqL._SX679_.jpg",
+            "imgName": "Iphone 1.JPG"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71uNkgYrWcL._SX679_.jpg",
+            "imgName": "Iphone 2.JPG"
+          }
+        ],
+        "comments": [
+          {
+            "name": "Manjot Singh",
+            "empId": "6473829123",
+            "timeStamp": "03-12-2021 10:00 AM",
+            "comment":
+              "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          },
+          {
+            "name": "Manjot Singh",
+            "empId": "6473829123",
+            "timeStamp": "03-12-2021 10:00 AM",
+            "comment":
+              "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          },
+          {
+            "name": "Manjot Singh",
+            "empId": "6473829123",
+            "timeStamp": "03-12-2021 10:00 AM",
+            "comment":
+              "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          },
+          {
+            "name": "Manjot Singh",
+            "empId": "6473829123",
+            "timeStamp": "03-12-2021 10:00 AM",
+            "comment":
+              "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          }
+        ],
+        "activities": [
+          {
+            "date": "05-12-2021",
+            "acts": [
+              {
+                "time": "10:30:20 AM",
+                "empName": "Bhupinder Singh",
+                "empId": "ABCD26273712",
+                "status": "Request for replacement"
+              },
+              {
+                "time": "02:45:40 PM",
+                "empName": "Nihar Singla",
+                "empId": "ABCD273712",
+                "status": "Delete photo (Apple1.png)"
+              }
+            ]
+          },
+          {
+            "date": "06-12-2021",
+            "acts": [
+              {
+                "time": "11:20:00 AM",
+                "empName": "Bhupinder Singh",
+                "empId": "ABCD26273712",
+                "status": "Asset photo attached"
+              },
+              {
+                "time": "03:15:10 PM",
+                "empName": "Nihar Singla",
+                "empId": "ABCD273712",
+                "status": "Assign asset to Bhupinder Singh"
+              }
+            ]
+          }
+        ],
+        "replacements": [
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          }
+        ],
+        "remarks": ["Hi", "Bye"]
+      },
+      {
+        "type": "Laptop",
+        "conditon": "02",
+        "name": "Macbook Pro",
+        "brand": "Apple",
+        "model": "ABCD12345678",
+        "serialNo": "SN12345674829",
+        "status": "Active",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/61l9ppRIiqL._SX679_.jpg",
+            "imgName": "Iphone 1.JPG"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71uNkgYrWcL._SX679_.jpg",
+            "imgName": "Iphone 2.JPG"
+          }
+        ],
+        "comments": [
+          {
+            "name": "Manjot Singh",
+            "empId": "6473829123",
+            "timeStamp": "03-12-2021 10:00 AM",
+            "comment":
+              "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          }
+        ],
+        "activities": [
+          {
+            "date": "05-12-2021",
+            "acts": [
+              {
+                "time": "10:30:20 AM",
+                "empName": "Bhupinder Singh",
+                "empId": "ABCD26273712",
+                "status": "Request for replacement"
+              },
+              {
+                "time": "02:45:40 PM",
+                "empName": "Nihar Singla",
+                "empId": "ABCD273712",
+                "status": "Delete photo (Apple1.png)"
+              }
+            ]
+          },
+          {
+            "date": "06-12-2021",
+            "acts": [
+              {
+                "time": "11:20:00 AM",
+                "empName": "Bhupinder Singh",
+                "empId": "ABCD26273712",
+                "status": "Asset photo attached"
+              },
+              {
+                "time": "03:15:10 PM",
+                "empName": "Nihar Singla",
+                "empId": "ABCD273712",
+                "status": "Assign asset to Bhupinder Singh"
+              }
+            ]
+          }
+        ],
+        "replacements": [
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          }
+        ],
+        "remarks": ["Hi", "Bye"]
+      },
+      {
+        "type": "Desktop",
+        "conditon": "03",
+        "name": "Windows",
+        "brand": "HP",
+        "model": "ABCD12345678",
+        "serialNo": "SN12345674829",
+        "status": "Active",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/61l9ppRIiqL._SX679_.jpg",
+            "imgName": "Iphone 1.JPG"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71uNkgYrWcL._SX679_.jpg",
+            "imgName": "Iphone 2.JPG"
+          }
+        ],
+        "comments": [
+          {
+            "name": "Manjot Singh",
+            "empId": "6473829123",
+            "timeStamp": "03-12-2021 10:00 AM",
+            "comment":
+              "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          }
+        ],
+        "activities": [
+          {
+            "date": "05-12-2021",
+            "acts": [
+              {
+                "time": "10:30:20 AM",
+                "empName": "Bhupinder Singh",
+                "empId": "ABCD26273712",
+                "status": "Request for replacement"
+              },
+              {
+                "time": "02:45:40 PM",
+                "empName": "Nihar Singla",
+                "empId": "ABCD273712",
+                "status": "Delete photo (Apple1.png)"
+              }
+            ]
+          },
+          {
+            "date": "06-12-2021",
+            "acts": [
+              {
+                "time": "11:20:00 AM",
+                "empName": "Bhupinder Singh",
+                "empId": "ABCD26273712",
+                "status": "Asset photo attached"
+              },
+              {
+                "time": "03:15:10 PM",
+                "empName": "Nihar Singla",
+                "empId": "ABCD273712",
+                "status": "Assign asset to Bhupinder Singh"
+              }
+            ]
+          }
+        ],
+        "replacements": [
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          }
+        ],
+        "remarks": ["Hi", "Bye"]
+      }
+    ]
+  },{
+    "empName": "Saraansh Jishtu",
+    "empId": "088",
+    "empRole": "Software Development Enigneer",
+    "empTeam": "IT Infra and Solutions",
+    "schedule": "Seaforth Supply Chain Solution",
+    "contactInfo": [9827812370, 9388887636],
+    "email": "nihar@gmail.com",
+    "address": "House number 007, Sector 007, Canada - 837278, Canada, Canada",
+    "status": "Under Process",
+    "assets": [
+      {
+        "type": "Mobile",
+        "conditon": "01",
+        "name": "Iphone 11(64GB) - Black, white, blue, silver",
+        "brand": "Apple",
+        "model": "ABCD12345678",
+        "serialNo": "SN12345674829",
+        "status": "Not Working",
+        "condition": "Working Condition",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/61l9ppRIiqL._SX679_.jpg",
+            "imgName": "Iphone 1.JPG"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71uNkgYrWcL._SX679_.jpg",
+            "imgName": "Iphone 2.JPG"
+          }
+        ],
+        "comments": [
+          {
+            "name": "Manjot Singh",
+            "empId": "6473829123",
+            "timeStamp": "03-12-2021 10:00 AM",
+            "comment":
+              "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          },
+          {
+            "name": "Manjot Singh",
+            "empId": "6473829123",
+            "timeStamp": "03-12-2021 10:00 AM",
+            "comment":
+              "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          },
+          {
+            "name": "Manjot Singh",
+            "empId": "6473829123",
+            "timeStamp": "03-12-2021 10:00 AM",
+            "comment":
+              "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          },
+          {
+            "name": "Manjot Singh",
+            "empId": "6473829123",
+            "timeStamp": "03-12-2021 10:00 AM",
+            "comment":
+              "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          }
+        ],
+        "activities": [
+          {
+            "date": "05-12-2021",
+            "acts": [
+              {
+                "time": "10:30:20 AM",
+                "empName": "Bhupinder Singh",
+                "empId": "ABCD26273712",
+                "status": "Request for replacement"
+              },
+              {
+                "time": "02:45:40 PM",
+                "empName": "Nihar Singla",
+                "empId": "ABCD273712",
+                "status": "Delete photo (Apple1.png)"
+              }
+            ]
+          },
+          {
+            "date": "06-12-2021",
+            "acts": [
+              {
+                "time": "11:20:00 AM",
+                "empName": "Bhupinder Singh",
+                "empId": "ABCD26273712",
+                "status": "Asset photo attached"
+              },
+              {
+                "time": "03:15:10 PM",
+                "empName": "Nihar Singla",
+                "empId": "ABCD273712",
+                "status": "Assign asset to Bhupinder Singh"
+              }
+            ]
+          }
+        ],
+        "replacements": [
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          }
+        ],
+        "remarks": ["Hi", "Bye"]
+      },
+      {
+        "type": "Laptop",
+        "conditon": "02",
+        "name": "Macbook Pro",
+        "brand": "Apple",
+        "model": "ABCD12345678",
+        "serialNo": "SN12345674829",
+        "status": "Active",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/61l9ppRIiqL._SX679_.jpg",
+            "imgName": "Iphone 1.JPG"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71uNkgYrWcL._SX679_.jpg",
+            "imgName": "Iphone 2.JPG"
+          }
+        ],
+        "comments": [
+          {
+            "name": "Manjot Singh",
+            "empId": "6473829123",
+            "timeStamp": "03-12-2021 10:00 AM",
+            "comment":
+              "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          }
+        ],
+        "activities": [
+          {
+            "date": "05-12-2021",
+            "acts": [
+              {
+                "time": "10:30:20 AM",
+                "empName": "Bhupinder Singh",
+                "empId": "ABCD26273712",
+                "status": "Request for replacement"
+              },
+              {
+                "time": "02:45:40 PM",
+                "empName": "Nihar Singla",
+                "empId": "ABCD273712",
+                "status": "Delete photo (Apple1.png)"
+              }
+            ]
+          },
+          {
+            "date": "06-12-2021",
+            "acts": [
+              {
+                "time": "11:20:00 AM",
+                "empName": "Bhupinder Singh",
+                "empId": "ABCD26273712",
+                "status": "Asset photo attached"
+              },
+              {
+                "time": "03:15:10 PM",
+                "empName": "Nihar Singla",
+                "empId": "ABCD273712",
+                "status": "Assign asset to Bhupinder Singh"
+              }
+            ]
+          }
+        ],
+        "replacements": [
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          }
+        ],
+        "remarks": ["Hi", "Bye"]
+      },
+      {
+        "type": "Desktop",
+        "conditon": "03",
+        "name": "Windows",
+        "brand": "HP",
+        "model": "ABCD12345678",
+        "serialNo": "SN12345674829",
+        "status": "Active",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/61l9ppRIiqL._SX679_.jpg",
+            "imgName": "Iphone 1.JPG"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71uNkgYrWcL._SX679_.jpg",
+            "imgName": "Iphone 2.JPG"
+          }
+        ],
+        "comments": [
+          {
+            "name": "Manjot Singh",
+            "empId": "6473829123",
+            "timeStamp": "03-12-2021 10:00 AM",
+            "comment":
+              "Lorem Ipsum is simply dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+          }
+        ],
+        "activities": [
+          {
+            "date": "05-12-2021",
+            "acts": [
+              {
+                "time": "10:30:20 AM",
+                "empName": "Bhupinder Singh",
+                "empId": "ABCD26273712",
+                "status": "Request for replacement"
+              },
+              {
+                "time": "02:45:40 PM",
+                "empName": "Nihar Singla",
+                "empId": "ABCD273712",
+                "status": "Delete photo (Apple1.png)"
+              }
+            ]
+          },
+          {
+            "date": "06-12-2021",
+            "acts": [
+              {
+                "time": "11:20:00 AM",
+                "empName": "Bhupinder Singh",
+                "empId": "ABCD26273712",
+                "status": "Asset photo attached"
+              },
+              {
+                "time": "03:15:10 PM",
+                "empName": "Nihar Singla",
+                "empId": "ABCD273712",
+                "status": "Assign asset to Bhupinder Singh"
+              }
+            ]
+          }
+        ],
+        "replacements": [
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          },
+          {
+            "empName": "Manjot Singh",
+            "empId": "ID63728",
+            "empRole": "Software Development Enigneer",
+            "empTeam": "IT Infra and Solutions",
+            "schedule": "Seaforth Supply Chain Solution",
+            "contactInfo": [9827812370, 9388887636],
+            "email": "nihar@gmail.com",
+            "address":
+              "House number 007, Sector 007, Canada - 837278, Canada, Canada"
+          }
+        ],
+        "remarks": ["Hi", "Bye"]
+      }
+    ]
+  }
+]

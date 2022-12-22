@@ -1,0 +1,24 @@
+.jexcel > thead > tr > td.selected {
+  background-color: #f7f8fc;
+}
+
+.jexcel > thead > tr > td,
+.jexcel > tbody > tr > td:first-child {
+  background-color: #f7f8fc;
+  color: #1f299c;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.jexcel > tbody > tr > td {
+  background-color: #ffffff;
+  color: #1f299c;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.jexcel_toolbar {
+  background-color: #f7f8fc;
+  color: #1f299c;
+  justify-content: space-around;
+}
