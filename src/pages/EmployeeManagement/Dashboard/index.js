@@ -19,9 +19,9 @@ import { ThemeProvider } from "@material-ui/styles";
 import { createTheme, responsiveFontSizes } from "@material-ui/core/styles";
 import useAuth from "../../../hooks/useAuth";
 import axios from "axios";
-// import { useHistory } from "react-router-dom";
+import { useHistory } from "react-router-dom";
 // import moment from "moment";
-import { useNavigate } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
 
 
 var CanvasJSChart = CanvasJSReact.CanvasJSChart;
@@ -71,8 +71,8 @@ export const Dashboard = (props) => {
 
   const [isLoading, setIsLoading] = React.useState(false);
   const [allEmployees, setAllEmployees] = React.useState([]);
-  // const history = useHistory();
-  const navigate = useNavigate();
+  const history = useHistory();
+  // const navigate = useNavigate();
 
   const [counts, setCounts] = React.useState({
     genderCount: {
@@ -157,7 +157,7 @@ export const Dashboard = (props) => {
     if (key === "leaves-approvals") page = "LEAVES_APPROVALS";
     if (key === "pending-tickets") page = "PENDING_TICKETS";
     if (key === "missed-punches") page = "MISSED_PUNCHS";
-    navigate.push({
+    history.push({
       pathname: `${link}`,
       state: {
         page,

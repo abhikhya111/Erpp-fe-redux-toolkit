@@ -6,9 +6,12 @@ import ExpandMore from "@material-ui/icons/ExpandMore";
 import Collapse from "@material-ui/core/Collapse";
 import StarBorder from "@material-ui/icons/StarBorder";
 import { Route, Redirect } from "react-router-dom";
-import useAuth from "hooks/useAuth";
+import useAuth from "../hooks/useAuth";
 import Loader from "react-loader-spinner";
 import { useHistory } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
+// import { Navigate } from 'react-router-dom';
+
 import {
   Button,
   Drawer,
@@ -356,6 +359,7 @@ const useStyles = makeStyles((theme) => ({
 export default function PrivateRoute({ children, ...rest }) {
   let auth = useAuth();
   const history = useHistory();
+  // const navigate = useNavigate();
   const mediaQuery = window.innerWidth;
   let [redirectToLogin, setredirectToLogin] = useState(false);
   let [isLoading, setisLoading] = useState(true);
@@ -464,6 +468,8 @@ export default function PrivateRoute({ children, ...rest }) {
     console.log("======== LINK -->", link);
     setRouteAccessed(link);
     history.push(`${link}`);
+    // navigate(`${link}`);
+
   };
 
   const handleLogout = function () {
@@ -473,6 +479,7 @@ export default function PrivateRoute({ children, ...rest }) {
       auth.signout(function () {
         console.log("Logout successfull");
         history.push(`/login`);
+        // navigate("/login")
         setIsLogginOut(false);
       });
     }, 1000);
@@ -751,8 +758,14 @@ export default function PrivateRoute({ children, ...rest }) {
                 state: { from: location },
               }}
             />
+            // <Navigate
+            //   to={{
+            //     pathname: "/login",
+            //     state: { from: location },
+            //   }}
+            // />
           )}
-          {isLoading && (
+          {/* {isLoading && (
             <Loader
               type='Circles'
               color='#1f299c'
@@ -761,7 +774,7 @@ export default function PrivateRoute({ children, ...rest }) {
               style={{ marginTop: "200px" }}
               // timeout={3000} //3 secs
             />
-          )}
+          )} */}
         </div>
       )}
     />
